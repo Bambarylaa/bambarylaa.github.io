@@ -12,6 +12,7 @@ button.addEventListener("click", () => {
     {
         window.location.href = 'https://legokapiman.github.io/';
     }
+    else
     {
     error.innerHTML = "Błąd";
     }
